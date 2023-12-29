@@ -10,4 +10,4 @@ I recommend adding this script to your Startup Windows folder so it runs every t
 Clones the contents of a template folder to a new folder with the name you specify in the script. I use this to create new projects with the same folder structure, you can test it in this repository by running the script like:
 ```bat
 .\create-folder-by-template.bat "New Project"
-``` This script will create a folder with the name you give it and then copy the contents of a template folder to the new folder. I use this to create new projects with a predefined structure.
+```
